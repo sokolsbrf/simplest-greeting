@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreetingsApp</string>
+
+    <string name="loading">Загрузка…</string>
+</resources>
